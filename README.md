@@ -1,2 +1,2 @@
-# kujou-kju.github.io
+# puyomi2k.github.io
 Little Webpage
